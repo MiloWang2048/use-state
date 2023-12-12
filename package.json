@@ -2,7 +2,7 @@
   "name": "use-state",
   "displayName": "Use State",
   "description": "Quickly declare states in React with camel case adaptation.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.85.0"
   },
