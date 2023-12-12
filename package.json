@@ -6,10 +6,12 @@
   "engines": {
     "vscode": "^1.85.0"
   },
-  "icon": "https://github.com/MiloWang2048/use-state/raw/master/icon.png",
+  "icon": "./icon.png",
   "categories": [
     "Snippets"
   ],
+  "publisher": "MiloWang",
+  "repository": "https://github.com/MiloWang2048/use-state",
   "contributes": {
     "snippets": [
       {

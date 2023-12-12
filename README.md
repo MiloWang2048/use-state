@@ -2,9 +2,8 @@
 
 Quickly declare states in React with camel case adaptation.
 
-<video id="video" controls="" preload="none">
-      <source id="mp4" src="https://github.com/MiloWang2048/use-state/raw/master/showcase.mp4" type="video/mp4">
-</videos>
+![](./)
+
 
 ## Requirements
 
