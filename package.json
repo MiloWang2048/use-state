@@ -6,7 +6,7 @@
   "engines": {
     "vscode": "^1.85.0"
   },
-  "icon": "icon.png",
+  "icon": "https://github.com/MiloWang2048/use-state/raw/master/icon.png",
   "categories": [
     "Snippets"
   ],
