@@ -1,0 +1,33 @@
+{
+  "name": "use-state",
+  "displayName": "Use State",
+  "description": "Quickly declare states in React with camel case adaptation.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/js.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/js.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/ts.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/ts.code-snippets"
+      }
+    ]
+  }
+}

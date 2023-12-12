@@ -1,0 +1,26 @@
+{
+  "Use State": {
+    "prefix": "state",
+    "body": "const [$1, set${1/^(.)(.*)/${1:/upcase}$2/}] = useState($2)"
+  },
+  "Use Callback": {
+    "prefix": "callback",
+    "body": "const $1 = useCallback(($2) => {$3}, [$4])"
+  },
+  "Use Context": {
+    "prefix": "context",
+    "body": "const $1 = useContext($2)"
+  },
+  "Use Effect": {
+    "prefix": "effect",
+    "body": "useEffect(() => {$1}, [$2])"
+  },
+  "Use Ref": {
+    "prefix": "ref",
+    "body": "const $1 = useRef($2)"
+  },
+  "Use Memo": {
+    "prefix": "memo",
+    "body": "const $1 = useMemo(() => {$2}, [$3])"
+  }
+}
